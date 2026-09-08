@@ -1,0 +1,14 @@
+# Overview
+
+The software is a console-based Hangman game written in C++. The player is presented with a randomly selected word (from a built-in word list) as a series of blanks, and must guess it one letter at a time. Wrong guesses are tracked visually through an ASCII-art gallows that progressively "builds" toward a loss. The game includes a hint system that lets the player reveal a hidden letter at the cost of a wrong guess, adding a strategic trade-off. The game loops until the player wins, loses, or chooses to stop replaying.
+
+[Software Demo Video](https://youtu.be/ltB3S7b7kno)
+
+# Development Environment
+
+Code Block
+
+# Useful Websites
+
+https://cppreference.com/
+https://www.learncpp.com/
